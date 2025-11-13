@@ -1,4 +1,4 @@
-22244116463274428
+22242363938988978
 AudioJacks
 Jack_3.5mm_Cliff_FCR1281_Horizontal
 
@@ -52801,12 +52801,12 @@ Electrosmith_3340_VCO
 20
 20
 Dans_Eurorack
-Fader_Slot_45mm
+Fader_Slot_3.2x45mm
 
 
 0
-1
-1
+0
+0
 Dans_Eurorack
 Mounting_Hole_3.2mm_M3
 
@@ -52819,15 +52819,15 @@ Mounting_Hole_6.2mm_Switch
 
 
 0
-1
-1
+0
+0
 Dans_Eurorack
 Mounting_Hole_6.2mm_Thonkiconn_Input_Round
 
 
 0
-1
-1
+0
+0
 Dans_Eurorack
 Mounting_Hole_6.2mm_Thonkiconn_Input_Square
 
@@ -52840,8 +52840,8 @@ Mounting_Hole_6.2mm_Thonkiconn_Output_Round
 
 
 0
-1
-1
+0
+0
 Dans_Eurorack
 Mounting_Hole_6.2mm_Thonkiconn_Output_Square
 
@@ -52854,15 +52854,8 @@ Mounting_Slot_3.2x5.2mm
 
 
 0
-1
-1
-Dans_Eurorack
-Rail_Mount_Slot
-
-
 0
-1
-1
+0
 Dans_Eurorack
 Salecom_SPDT_PCB_Mount_Mini_Toggle_Switch
 
